@@ -1,6 +1,6 @@
 package We_love_kriii;
 
-public class We_love_kriii_10718 {
+public class Main_10718 {
 
 	public static void main(String[] args) {
 		

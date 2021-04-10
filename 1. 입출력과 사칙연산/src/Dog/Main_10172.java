@@ -1,6 +1,6 @@
 package Dog;
 
-public class Dog_10172 {
+public class Main_10172 {
 
 public static void main(String[] args) {
 		

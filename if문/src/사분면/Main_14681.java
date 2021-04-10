@@ -2,7 +2,7 @@ package 사분면;
 
 import java.util.Scanner;
 
-public class 사분면_14681 {
+public class Main_14681 {
 
 	public static void main(String[] args) {
 		

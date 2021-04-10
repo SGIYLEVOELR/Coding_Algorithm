@@ -1,6 +1,6 @@
 package Cat;
 
-public class Cat_10171 {
+public class Main_10171 {
 
 	public static void main(String[] args) {
 		

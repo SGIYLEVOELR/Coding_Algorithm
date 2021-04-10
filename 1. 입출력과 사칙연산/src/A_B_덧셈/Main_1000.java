@@ -1,16 +1,17 @@
-package A_B_뺄셈;
+package A_B_덧셈;
 
 import java.util.Scanner;
 
-public class A_B_뺄셈_1001 {
+public class Main_1000 {
 
 	public static void main(String[] args) {
-
+		
 		Scanner scan = new Scanner(System.in);
-
+		
 		int A = scan.nextInt();
 		int B = scan.nextInt();
-
-		System.out.println("A - B = " + (A - B));
+		
+		System.out.printf("A + B = " +  (A + B));
+		
 	}
 }

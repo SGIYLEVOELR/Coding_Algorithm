@@ -2,7 +2,7 @@ package 윤년;
 
 import java.util.Scanner;
 
-public class 윤년_2753 {
+public class Main_2753 {
 
 	public static void main(String[] args) {
 

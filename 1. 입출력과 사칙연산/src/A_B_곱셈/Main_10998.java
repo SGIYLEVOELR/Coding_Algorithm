@@ -1,8 +1,8 @@
-package A_B_덧셈;
+package A_B_곱셈;
 
 import java.util.Scanner;
 
-public class A_B_덧셈_1000 {
+public class Main_10998 {
 
 	public static void main(String[] args) {
 		
@@ -10,8 +10,8 @@ public class A_B_덧셈_1000 {
 		
 		int A = scan.nextInt();
 		int B = scan.nextInt();
-		
-		System.out.printf("A + B = " +  (A + B));
+
+		System.out.println("A X B = " + (A*B));
 		
 	}
 }

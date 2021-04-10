@@ -2,7 +2,7 @@ package A_B_비교;
 
 import java.util.Scanner;
 
-public class A_B_1330 {
+public class Main_1330 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

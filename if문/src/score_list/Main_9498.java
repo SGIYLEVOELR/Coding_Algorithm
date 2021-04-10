@@ -2,7 +2,7 @@ package score_list;
 
 import java.util.Scanner;
 
-public class score_9498 {
+public class Main_9498 {
 
 	public static void main(String[] args) {
 		

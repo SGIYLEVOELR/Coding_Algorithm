@@ -2,7 +2,7 @@ package A_B_사칙연산;
 
 import java.util.Scanner;
 
-public class A_B_사칙연산_10869 {
+public class Main_10869 {
 
 	public static void main(String[] args) {
 		

@@ -2,7 +2,7 @@ package 알람_시계;
 
 import java.util.Scanner;
 
-public class 알람_시계_2884 {
+public class Main_2884 {
 
 	public static void main(String[] args) {
 		
