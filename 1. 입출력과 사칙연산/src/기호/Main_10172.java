@@ -1,4 +1,4 @@
-package Dog;
+package 기호;
 
 public class Main_10172 {
 

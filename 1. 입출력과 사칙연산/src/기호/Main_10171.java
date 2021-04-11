@@ -1,4 +1,4 @@
-package Cat;
+package 기호;
 
 public class Main_10171 {
 

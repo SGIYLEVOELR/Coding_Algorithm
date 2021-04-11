@@ -1,4 +1,4 @@
-package 빠른_A_B;
+package A_B;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

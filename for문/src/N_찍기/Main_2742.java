@@ -1,4 +1,4 @@
-package 기찍_N;
+package N_찍기;
 
 import java.util.Scanner;
 

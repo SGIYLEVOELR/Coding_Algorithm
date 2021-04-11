@@ -13,6 +13,7 @@ public class Main_8393 {
 		int sum = 0;
 		
 		for(i = 1; i < n + 1; i++) {
+			
 			sum += i;
 			
 		}

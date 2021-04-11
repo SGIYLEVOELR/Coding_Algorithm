@@ -1,4 +1,4 @@
-package A_B_곱셈;
+package A_B_사칙연산;
 
 import java.util.Scanner;
 

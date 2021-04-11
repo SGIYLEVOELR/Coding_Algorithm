@@ -1,4 +1,4 @@
-package A_B_합_추가;
+package A_B;
 
 import java.util.Scanner;
 
