@@ -1,0 +1,8 @@
+﻿  sec023_1.c
+C:\bizworks\Coding_Algorithm\Programmers\C\Programmers\Programmers\sec023_1.c(5,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  sec023_1602333.c
+C:\bizworks\Coding_Algorithm\Programmers\C\Programmers\Programmers\sec023_1602333.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\bizworks\Coding_Algorithm\Programmers\C\Programmers\Programmers\sec023_1602333.c(9,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\bizworks\Coding_Algorithm\Programmers\C\Programmers\Programmers\sec023_1602333.c(11,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\bizworks\Coding_Algorithm\Programmers\C\Programmers\Programmers\sec023_1602333.c(12,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
