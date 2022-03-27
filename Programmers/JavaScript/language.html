@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <title>Language</title>
+</head>
+<body>
+    <div>
+        <input type="button" class="button_lng" name="Java" value="Java" />
+        <input type="button" class="button_lng" name="JavaScript" value="JavaScript" />
+        <input type="button" class="button_lng" name="Python" value="Python" />
+        <input type="button" class="button_lng" name="C" value="C" />
+    </div>
+    <div>
+        <input name="input_lng" id="input_lng" placeholder="검색어를 입력하세요." />
+    </div>
+    <div>
+        <select name="sel_lng" id="sel_lng">
+            <option value="Java">Java</option>
+            <option value="JavaScript">JavaScript</option>
+            <option value="Python">Python</option>
+            <option value="C">C</option>
+        </select>
+    </div>
+</body>
+<script>
+$(".button_lng").on("click", function() {
+    let clickVal = $(this).val();
+    console.log("1 : " + clickVal);
+    
+    // input에 선택한 값 보여주기
+    $("#input_lng").val(clickVal);
+    // select box에 selected 추가
+    $("#sel_lng").val(clickVal).prop("selected", true);
+    
+    console.log("2 : " + clickVal);
+    if($(".button_lng").attr("name") == clickVal) {
+        console.log("style 변경하기");
+        console.log("3 : " + clickVal);
+        // console.log($('input[name=' + clickVal+ ']').val());
+        $('input[name=' + clickVal+ ']').css("color", "red");
+    } else {
+        $('input[name=' + clickVal+ ']').css("color", "black");
+    }
+})
+</script>
+</html>
