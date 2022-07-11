@@ -4,7 +4,7 @@
 
 				STATION
 		Field				Type
-		ID1					NUMBER
+		ID1				NUMBER
 		CITY				VARCHAR2(21)
 		STATE				VARCHAR2(2)
 		LAT_N				NUMBER
@@ -18,11 +18,11 @@ SELECT CITY
 FROM STATION;
 
 -- CITY				STATE
--- Kissee Mills 	MO
--- Loma Mar 		CA
--- Sandy Hook 		CT
+-- Kissee Mills 		MO
+-- Loma Mar 			CA
+-- Sandy Hook 			CT
 -- Tipton 			IN
--- Arlington 		CO
+-- Arlington 			CO
 -- Turner 			AR
 -- Slidell 			LA
 -- Negreet 			LA
