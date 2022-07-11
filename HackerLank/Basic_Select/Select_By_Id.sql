@@ -17,4 +17,4 @@ WHERE ID = '1661';
 -- Expected Output
 
 -- ID	NAME	COUTRYCODE	DISTRICT	POPULATION
--- 1661	Sayama	JPN			Saitama		162472 
+-- 1661	Sayama	JPN		Saitama		162472 
